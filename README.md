@@ -1,5 +1,5 @@
 # combined-cycle-power-plant-ann
-Here's the updated README without the Training Visualization section and with copy mode ready:
+
 
 ---
 
